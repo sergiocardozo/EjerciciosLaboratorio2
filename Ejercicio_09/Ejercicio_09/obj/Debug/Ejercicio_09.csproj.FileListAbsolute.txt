@@ -1,0 +1,6 @@
+C:\Users\sergp\Desktop\C#\Laboratorio2\Ejercicio_09\Ejercicio_09\bin\Debug\Ejercicio_09.exe.config
+C:\Users\sergp\Desktop\C#\Laboratorio2\Ejercicio_09\Ejercicio_09\bin\Debug\Ejercicio_09.exe
+C:\Users\sergp\Desktop\C#\Laboratorio2\Ejercicio_09\Ejercicio_09\bin\Debug\Ejercicio_09.pdb
+C:\Users\sergp\Desktop\C#\Laboratorio2\Ejercicio_09\Ejercicio_09\obj\Debug\Ejercicio_09.csproj.CoreCompileInputs.cache
+C:\Users\sergp\Desktop\C#\Laboratorio2\Ejercicio_09\Ejercicio_09\obj\Debug\Ejercicio_09.exe
+C:\Users\sergp\Desktop\C#\Laboratorio2\Ejercicio_09\Ejercicio_09\obj\Debug\Ejercicio_09.pdb
