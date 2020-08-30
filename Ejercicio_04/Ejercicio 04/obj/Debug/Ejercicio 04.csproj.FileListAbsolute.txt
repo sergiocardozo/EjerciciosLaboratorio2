@@ -5,3 +5,10 @@ C:\Users\sergp\Desktop\C#\Laboratorio2\Ejercicio 04\Ejercicio 04\bin\Debug\Ejerc
 C:\Users\sergp\Desktop\C#\Laboratorio2\Ejercicio 04\Ejercicio 04\bin\Debug\Ejercicio 04.pdb
 C:\Users\sergp\Desktop\C#\Laboratorio2\Ejercicio 04\Ejercicio 04\obj\Debug\Ejercicio 04.exe
 C:\Users\sergp\Desktop\C#\Laboratorio2\Ejercicio 04\Ejercicio 04\obj\Debug\Ejercicio 04.pdb
+C:\Users\sergp\Desktop\C#\Laboratorio_2\EjerciciosLaboratorio2\Ejercicio_04\Ejercicio 04\bin\Debug\Ejercicio 04.exe.config
+C:\Users\sergp\Desktop\C#\Laboratorio_2\EjerciciosLaboratorio2\Ejercicio_04\Ejercicio 04\bin\Debug\Ejercicio 04.exe
+C:\Users\sergp\Desktop\C#\Laboratorio_2\EjerciciosLaboratorio2\Ejercicio_04\Ejercicio 04\bin\Debug\Ejercicio 04.pdb
+C:\Users\sergp\Desktop\C#\Laboratorio_2\EjerciciosLaboratorio2\Ejercicio_04\Ejercicio 04\obj\Debug\Ejercicio 04.csprojAssemblyReference.cache
+C:\Users\sergp\Desktop\C#\Laboratorio_2\EjerciciosLaboratorio2\Ejercicio_04\Ejercicio 04\obj\Debug\Ejercicio 04.csproj.CoreCompileInputs.cache
+C:\Users\sergp\Desktop\C#\Laboratorio_2\EjerciciosLaboratorio2\Ejercicio_04\Ejercicio 04\obj\Debug\Ejercicio 04.exe
+C:\Users\sergp\Desktop\C#\Laboratorio_2\EjerciciosLaboratorio2\Ejercicio_04\Ejercicio 04\obj\Debug\Ejercicio 04.pdb

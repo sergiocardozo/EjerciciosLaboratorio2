@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ejercicio_13
+namespace BasesNumericas
 {
-    class Conversor
+    public class Conversor
     {
         static public string DecimalBinario(int inputDecimal)
         {

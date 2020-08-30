@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BasesNumericas;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -14,7 +15,7 @@ namespace Ejercicio_13
 
             int entradaDecimal;
             string entradaBinario = "";
-           
+
 
             Console.Write("Ingrese el numero decimal a convertir: ");
             int.TryParse(Console.ReadLine(), out entradaDecimal);

@@ -28,6 +28,7 @@ namespace Ejercicio_03
                 if (primo == true)
                     Console.WriteLine("{0:#,###.00}", i);
             }
+            Console.ReadKey();
         }
     }
 }

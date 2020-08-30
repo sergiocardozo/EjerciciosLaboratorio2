@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoraActualizada", "HoraActualizada\HoraActualizada.csproj", "{C2980BC8-C0AC-4973-ABE8-77C59DE4574E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoraConTimer", "HoraConTimer\HoraConTimer.csproj", "{4A55390D-DE21-4AC4-AC34-9A40D653C7DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2980BC8-C0AC-4973-ABE8-77C59DE4574E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2980BC8-C0AC-4973-ABE8-77C59DE4574E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2980BC8-C0AC-4973-ABE8-77C59DE4574E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2980BC8-C0AC-4973-ABE8-77C59DE4574E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A55390D-DE21-4AC4-AC34-9A40D653C7DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A55390D-DE21-4AC4-AC34-9A40D653C7DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A55390D-DE21-4AC4-AC34-9A40D653C7DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A55390D-DE21-4AC4-AC34-9A40D653C7DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DC8FA43-0EE0-4A04-AEF3-7F9CC73E327B}
+	EndGlobalSection
+EndGlobal

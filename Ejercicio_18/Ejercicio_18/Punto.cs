@@ -14,5 +14,23 @@ namespace Geometria
         #endregion
         private int x;
         private int y;
+
+        //getters para acceder a los atributos privados 
+        public int GetX()
+        {
+            return this.x;
+        }
+
+        public int GetY()
+        {
+            return this.y;
+        }
+        //Constructor que recibe los parametro x e y
+        public Punto (int x, int y)
+        {
+            this.x = x;
+            this.y = y;
+        }
     }
 }
+

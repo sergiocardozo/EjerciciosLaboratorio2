@@ -4,3 +4,10 @@ C:\Users\sergp\Desktop\C#\Laboratorio2\Ejercicio_03\Ejercicio_03\bin\Debug\Ejerc
 C:\Users\sergp\Desktop\C#\Laboratorio2\Ejercicio_03\Ejercicio_03\obj\Debug\Ejercicio_03.csproj.CoreCompileInputs.cache
 C:\Users\sergp\Desktop\C#\Laboratorio2\Ejercicio_03\Ejercicio_03\obj\Debug\Ejercicio_03.exe
 C:\Users\sergp\Desktop\C#\Laboratorio2\Ejercicio_03\Ejercicio_03\obj\Debug\Ejercicio_03.pdb
+C:\Users\sergp\Desktop\C#\Laboratorio_2\EjerciciosLaboratorio2\Ejercicio_03\Ejercicio_03\bin\Debug\Ejercicio_03.exe.config
+C:\Users\sergp\Desktop\C#\Laboratorio_2\EjerciciosLaboratorio2\Ejercicio_03\Ejercicio_03\bin\Debug\Ejercicio_03.exe
+C:\Users\sergp\Desktop\C#\Laboratorio_2\EjerciciosLaboratorio2\Ejercicio_03\Ejercicio_03\bin\Debug\Ejercicio_03.pdb
+C:\Users\sergp\Desktop\C#\Laboratorio_2\EjerciciosLaboratorio2\Ejercicio_03\Ejercicio_03\obj\Debug\Ejercicio_03.csprojAssemblyReference.cache
+C:\Users\sergp\Desktop\C#\Laboratorio_2\EjerciciosLaboratorio2\Ejercicio_03\Ejercicio_03\obj\Debug\Ejercicio_03.csproj.CoreCompileInputs.cache
+C:\Users\sergp\Desktop\C#\Laboratorio_2\EjerciciosLaboratorio2\Ejercicio_03\Ejercicio_03\obj\Debug\Ejercicio_03.exe
+C:\Users\sergp\Desktop\C#\Laboratorio_2\EjerciciosLaboratorio2\Ejercicio_03\Ejercicio_03\obj\Debug\Ejercicio_03.pdb

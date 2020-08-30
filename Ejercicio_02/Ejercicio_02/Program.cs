@@ -25,6 +25,8 @@ namespace Ejercicio_02
 
             Console.WriteLine("El cuadrado del numero ingresado es : {0}", Math.Pow(numero, 2));
             Console.WriteLine("El cubo del numero ingresado es : {0}", Math.Pow(numero, 3));
+
+            Console.ReadKey();
         }
     }
 }
